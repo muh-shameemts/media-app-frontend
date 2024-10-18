@@ -1,0 +1,35 @@
+
+  *{
+    margin: 0px;
+    font-family: "M PLUS 1 Code", monospace;
+}
+.heading{
+  font-family: "M PLUS 1 Code", monospace;
+  color: rgb(236, 173, 36);
+}
+.btn{
+  background-color: chocolate;
+  color: black;
+}
+.btn1{
+  width: 70px;
+  height: 40px;
+}
+.video-cards {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.video-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+}
+
+.video-image {
+  width: 100%;
+  height: auto;
+}

@@ -1,0 +1,40 @@
+/* *{
+    font-family: "Edu QLD Beginner", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+/* .ftr{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}  */
+
+
+
+.footer {
+    background-color: #000000; /* Black background */
+    color: #FFA500; /* Orange text */
+    margin-top: 10px;
+    padding: 20px 0; /* Padding */
+    border-top: 5px solid #FFA500; /* Orange top border */
+  }
+  
+  .footer .container {
+    max-width: 1200px; /* Max width for the container */
+    margin: 0 auto; /* Center the container */
+  }
+  
+  .footer-links {
+    margin-top: 10px; /* Spacing above the links */
+  }
+  
+  .footer-link {
+    color: #FFA500; /* Orange link color */
+    margin: 0 15px; /* Spacing between links */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .footer-link:hover {
+    text-decoration: underline
+  }  

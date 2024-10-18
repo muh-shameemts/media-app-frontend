@@ -1,0 +1,16 @@
+.home{
+    font-family: "M PLUS 1 Code", monospace;
+    font-optical-sizing: auto;
+    margin-top: 2px;
+}
+.table{
+   
+    
+    background-color:  red;
+    border: 2px;
+    padding: 1px;
+    margin: 1px;
+}
+.t1{
+    width: 70%;
+}
